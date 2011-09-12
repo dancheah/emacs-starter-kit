@@ -18,7 +18,7 @@
 
 ;;; Setup ensime
 ;; Load the ensime lisp code...
-(add-to-list 'load-path "~/.emacs.d/ensime/src/main/elisp")
+(add-to-list 'load-path "/opt/personal/pkg/ensime/elisp")
 (require 'ensime)
 
 ;; This step causes the ensime-mode to be started whenever
