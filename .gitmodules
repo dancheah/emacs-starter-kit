@@ -1,3 +1,6 @@
 [submodule "simplenote.el"]
 	path = simplenote.el
 	url = https://github.com/cefstat/simplenote.el.git
+[submodule "ensime"]
+	path = ensime
+	url = https://github.com/aemoncannon/ensime.git
